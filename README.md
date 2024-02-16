@@ -1,6 +1,6 @@
 # DDB Atomic Counter
 
-	This repo provides a go library to create CounterGroups which are backed by a DDB table. Each row in the table is an instance of an monotonically increasing atomic counter. 
+This repo provides a go library to create CounterGroups which are backed by a DDB table. Each row in the table is an instance of an monotonically increasing atomic counter. 
 
 ## Usage
 
